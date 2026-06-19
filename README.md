@@ -60,12 +60,12 @@ Currently targeting roles in **Data Science**, **Business Intelligence Engineeri
 
 ## Featured Projects
 
-### 🏗️ Retail Data Warehouse — Medallion Architecture
-*SQL Server · T-SQL · Power BI · ETL · Dimensional Modeling*
 
-- Architected **Bronze → Silver → Gold** pipeline across **22 tables, 50K+ rows** of retail data
-- Engineered Silver transformations: deduplication, NULL imputation, date correction across **14,962 line items**
-- Delivered **4 role-based Power BI dashboards** answering **25+ business questions** via DAX across 64 stores and 4,000 customers
+### 📈 Startup Success Prediction
+*Python · XGBoost · SMOTE · Feature Engineering*
+
+- Full ML pipeline on **50K+ records** with SMOTE for class imbalance
+- XGBoost achieved **84.61% accuracy**, selected as optimal over Decision Tree and Random Forest
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/OmarKhaled06)
 
@@ -81,11 +81,12 @@ Currently targeting roles in **Data Science**, **Business Intelligence Engineeri
 
 ---
 
-### 📈 Startup Success Prediction
-*Python · XGBoost · SMOTE · Feature Engineering*
+### 🏗️ Retail Data Warehouse — Medallion Architecture
+*SQL Server · T-SQL · Power BI · ETL · Dimensional Modeling*
 
-- Full ML pipeline on **50K+ records** with SMOTE for class imbalance
-- XGBoost achieved **84.61% accuracy**, selected as optimal over Decision Tree and Random Forest
+- Architected **Bronze → Silver → Gold** pipeline across **22 tables, 50K+ rows** of retail data
+- Engineered Silver transformations: deduplication, NULL imputation, date correction across **14,962 line items**
+- Delivered **4 role-based Power BI dashboards** answering **25+ business questions** via DAX across 64 stores and 4,000 customers
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/OmarKhaled06)
 
