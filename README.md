@@ -19,6 +19,7 @@
 
 BSc Business Informatics student at the **German International University (GIU)** — DAAD Merit Scholarship holder (HTW Berlin partnership), graduating 2027. My background sits at the intersection of **business & finance** and **data engineering**: I've worked inside a bank analyzing credit risk and regulatory reporting, and I translate that domain knowledge into ML pipelines, data warehouses, and BI dashboards that answer real business questions.
 
+**Email**: omar.k132006@gmail.com
 **Linkedin**:www.linkedin.com/in/omar-khaled-13j2006
 
 Currently targeting roles in **Data Science**, **Business Intelligence Engineering**, **Analytics**, and **AI Engineering**.
