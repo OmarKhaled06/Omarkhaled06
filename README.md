@@ -61,7 +61,7 @@ Currently targeting roles in **Data Science**, **Business Intelligence Engineeri
 ## Featured Projects
 
 
-### 📈 Startup Success Prediction
+### 📈 Predicting Startups Success
 *Python · XGBoost · SMOTE · Feature Engineering*
 
 - Full ML pipeline on **50K+ records** with SMOTE for class imbalance
@@ -72,7 +72,7 @@ Currently targeting roles in **Data Science**, **Business Intelligence Engineeri
 ---
 
 ### 🚲 Citi Bike Big Data Analytics
-*PySpark · SparkML · Classification*
+*PySpark · SparkML · Classification ML*
 
 - Processed **1.3M+ trip records** with large-scale data cleaning and feature engineering
 - Evaluated 3 ML models — achieved **74.02% accuracy**; extracted commuter patterns, peak demand, and subscriber behavior
@@ -82,7 +82,7 @@ Currently targeting roles in **Data Science**, **Business Intelligence Engineeri
 ---
 
 ### 🏗️ Retail Data Warehouse — Medallion Architecture
-*SQL Server · T-SQL · Power BI · ETL · Dimensional Modeling*
+*SQL Server · T-SQL · Power BI · ETL · Dimensional Modeling ·Data warehousing*
 
 - Architected **Bronze → Silver → Gold** pipeline across **22 tables, 50K+ rows** of retail data
 - Engineered Silver transformations: deduplication, NULL imputation, date correction across **14,962 line items**
